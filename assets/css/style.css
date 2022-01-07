@@ -111,6 +111,8 @@ section {
     color: #024e76;
     padding: 20px;
     border: solid 3px #024e76;
+    width: 40%;
+    margin: 3.5%;
 }
 
 .hero-form h3 {
